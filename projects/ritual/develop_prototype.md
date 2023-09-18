@@ -75,13 +75,13 @@ Wireframes are informal sketches that help designers test their ideas so they ca
 3. Copy the InVision project's  Public Share Link.
 4. Write a prototype description according to the requirements.
 
-## Post work to the Studio
+## Post work to Canvas
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
-1. Upload the `.zip` archive file to Studio 
-2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio
-3. Post a **prototype description** in the Studio submission text box.
+1. Upload the `.zip` archive file to Canvas 
+2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to Canvas
+3. Post a **prototype description** in the Canvas submission text box.
 
 
 
