@@ -2,7 +2,7 @@
 
 # Develop: Test and review
 
-Now that your prototype is done, it is time to participate in feedback. You will be assigned a few prototypes to review. Your prototype will also be reviewed by your classmates. This is an opportunity to practice receiving and interpreting feedback. A critique of your work might be stressful at first, but it is one of the most common, and useful processes in design.
+Now that your prototype is done, it is time to participate in feedback. You will post your prototype for feedback to your group. Test and provide feedback to at least 2 prototypes in your group and provide each classmate with detailed feedback. As a group you should assign which group members will provide feedback for one another, this work can be assigned by the team leader if needed. This is an opportunity to practice receiving and interpreting feedback. A critique of your work might be stressful at first, but it is one of the most common, and useful processes in design.
 
 ## Instructions
 
