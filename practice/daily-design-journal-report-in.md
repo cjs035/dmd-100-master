@@ -4,7 +4,7 @@ Now that you have documented at least one object each day for two weeks, it's ti
 
 ## Prompt
 
-1. From the 14 objects that you sketched, which are your favorite objects? Why?
+1. From the 10 objects that you sketched, which are your favorite objects? Why?
 2. Select one object from your list. What role does this object play in your life? What would be the result if you did not have it anymore?
 3. Do you generally take these objects for granted or are they special?
 
