@@ -36,7 +36,7 @@ You should include the bare minimum listed in this tutorial, but if you want to 
 
 ## Previous student work
 
-["Love to Evolution"](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-narrative-project/love-to-evolution-narrative-project.html) by Symphony Howlett, 2017
+["Love to Evolution"](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-narrative-project/love-to-evolution-narrative-project.html) by Symphony Howlett, 2017 (This example is only showing up as a wall of code. I will add examples in class but here is a good one where the student used custom CSS Avery Ballard, 2024, the file can be found in my Fall 2024 DMD 100 section as an example for the assignment in the first process assignment
 
 ## Grading
 
